@@ -1,0 +1,7 @@
+PHP with alert:
+
+?>
+				<script type="text/javascript">
+    			alert("Sorry, that username already exists.");
+                </script>										
+<?php 
